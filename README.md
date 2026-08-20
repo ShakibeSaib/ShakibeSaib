@@ -10,7 +10,7 @@ Terraform · AWS · CI/CD (GitHub Actions, Azure Pipelines, Jenkins) · Postgres
 Kubernetes (EKS + AKS) → Terraform-provisioned AWS infra → GitOps deployment.
 
 #### Featured Projects
-- 🔹 [docker-flask-postgres-app](https://github.com/ShakibeSaib/docker-flask-postgres-app) — containerized 3-tier app, optimized multi-stage builds
+- 🔹 [docker-containerized-webapp](https://github.com/ShakibeSaib/docker-containerized-webapp) — containerized web app
 - 🔹 [k8s-ecommerce-deploy](https://github.com/ShakibeSaib/k8s-ecommerce-deploy) — Helm chart deployment with autoscaling + Prometheus/Grafana
 - 🔹 [terraform-aws-eks-cluster](https://github.com/ShakibeSaib/terraform-aws-eks-cluster) — full VPC + EKS provisioning via Terraform
 - 🔹 [cicd-gitops-pipeline](https://github.com/ShakibeSaib/cicd-gitops-pipeline) — GitHub Actions + ArgoCD pipeline
